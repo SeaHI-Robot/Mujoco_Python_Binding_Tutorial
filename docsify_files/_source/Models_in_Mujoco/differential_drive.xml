@@ -1,0 +1,35 @@
+<mujoco>
+    <option gravity="0 0 -9.81"/>
+    
+    <worldbody>
+        <light diffuse=".5 .5 .5" pos="0 0 3" dir="0 0 -1"/>
+        <geom type="plane" size="5 5 .1" rgba=".9 .9 .9 1"/>
+        <body name="chasis" pos="0 0 1" euler='0 90 0'>
+            <joint type="free"/>
+            <geom type="box" size=".05 .2 .5" rgba=".6 .7 .5 1"/>
+            <site name="marker" pos="0 0 0" size="0.1"/>
+
+            <body name="wheel_body_left" pos="0 0.3 -0.3" euler="90 0 0">
+                <joint name="wheel_left" type="hinge" axis="0 0 -1"/>
+                <geom type="cylinder" size=".3 0.05" rgba="0 .9 0 1"/>
+            </body>
+            <body name="wheel_body_right" pos="0 -0.3 -0.3" euler="90 0 0">
+                <joint name="wheel_right" type="hinge" axis="0 0 -1"/>
+                <geom type="cylinder" size=".3 0.05" rgba="0 .9 0 1"/>
+            </body>
+
+        </body>
+    </worldbody>
+
+    <actuator>
+        <velocity name="left_servo" joint="wheel_left" kv="100"/>
+        <velocity name="right_servo" joint="wheel_right" kv="100"/>
+    </actuator>
+
+    <sensor>
+        <framepos objtype="site" objname="marker"/>
+    </sensor>
+    
+    
+        
+</mujoco>

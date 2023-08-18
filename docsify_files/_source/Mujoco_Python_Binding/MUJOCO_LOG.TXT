@@ -1,0 +1,3 @@
+Fri Jul  7 20:43:12 2023
+ERROR: mjv_updateSceneState: m->nbody changed
+
