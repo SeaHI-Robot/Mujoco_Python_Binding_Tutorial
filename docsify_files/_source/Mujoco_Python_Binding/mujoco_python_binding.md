@@ -18,7 +18,7 @@ mujoco在被DeepMind收购并开源后，推出了原生的python接口，这意
 
 ## Python中直接调用viewer
 
-> mujoco中的viewer实相当于一个官方提供的GUI，提供了一个基本的画面渲染和操作界面；
+> mujoco中的viewer相当于一个官方提供的GUI，提供了一个基本的画面渲染和操作界面；
 >
 > mujoco本质上是一个仿真引擎，所以你也可以自己开发自己的GUI，使用更好的渲染工具。比如mujoco官方就提供了unity的接口，让用户可以通过mujoco引擎仿真，在unity中渲染画面
 
