@@ -1,3 +1,3 @@
-Fri Jul  7 20:43:12 2023
-ERROR: mjv_updateSceneState: m->nbody changed
+Sun Aug 20 21:36:06 2023
+WARNING: mju_openResource: unknown file './assets/my_models/diff_drive.xml'
 

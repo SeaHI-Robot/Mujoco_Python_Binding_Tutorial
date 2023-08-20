@@ -1,3 +1,4 @@
 ## Mujuco Python Binding Tutorial
 
-> 在python中使用mujoco，文档使用docsify构建
+> 一份 Mujuco Python Binding 的入门教程
+

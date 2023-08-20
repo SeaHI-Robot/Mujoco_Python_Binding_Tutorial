@@ -34,8 +34,8 @@ def init_controller(model,data):
 
 def controller(model, data):
     #put the controller here. This function is called inside the simulation.
-    data.ctrl[0] = 5
-    data.ctrl[1] = -5
+    data.ctrl[0] = 1
+    data.ctrl[1] = -1
     
 
 def keyboard(window, key, scancode, act, mods):
