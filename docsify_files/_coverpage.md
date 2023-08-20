@@ -20,7 +20,7 @@
 
 - Copyright © 2023 SeaHI All Rights Reserved.
 
-[SeaHI Page](https://seahipage.gitee.io)
+[Github Repo](https://github.com/SeaHI-Robot/Mujoco_Python_Binding_Tutorial)
 [Get Started](README.md)
 
 
