@@ -6,9 +6,9 @@
 
 
 
-<img src="_media/mujoco_logo.png" style="zoom:70%;" />
 
-<img src="_media/brave_kun.png" style="zoom:45%;" />
+
+<img src="_media/brave_kun.png" style="zoom: 33%;" />
 
 
 
