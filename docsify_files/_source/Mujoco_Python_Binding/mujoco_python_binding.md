@@ -326,7 +326,7 @@ glfw.terminate()
 
 以上代码相当于自己定义了一个UI，模型是一个差速小车，输入左右轮的运动指令使小车运动；
 
-![image-20230820215133317](https://gitee.com/SeaHIPage/My_Pics/raw/master/from_ubuntu/image-20230820215133317.png)
+<img src="/home/allen-wong/.config/Typora/typora-user-images/image-20230820215133317.png" alt="image-20230820215133317" style="zoom:50%;" />
 
 
 
@@ -453,7 +453,7 @@ if __name__ == '__main__':
 
 运行脚本，通过上下左右和空格键，可以控制小车的运动；
 
-![image-20230820215002745](https://gitee.com/SeaHIPage/My_Pics/raw/master/from_ubuntu/image-20230820215002745.png)
+<img src="/home/allen-wong/.config/Typora/typora-user-images/image-20230820215002745.png" alt="image-20230820215002745" style="zoom:50%;" />
 
 
 

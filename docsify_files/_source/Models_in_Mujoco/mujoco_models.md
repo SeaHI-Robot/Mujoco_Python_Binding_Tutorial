@@ -53,9 +53,13 @@ C++的mjCModel和xml文件（MJCF）定义的模型基本是直接对应的。�
 python -m mujoco.viewer
 ```
 
+<img src="/home/allen-wong/.config/Typora/typora-user-images/image-20230820220334800.png" alt="image-20230820220334800" style="zoom:40%;" />
+
+
+
 随后把xml定义的模型文件拖到viewer的窗口中......
 
-![image-20230820210316562](https://gitee.com/SeaHIPage/My_Pics/raw/master/from_ubuntu/image-20230820210316562.png)
+<img src="https://gitee.com/SeaHIPage/My_Pics/raw/master/from_ubuntu/image-20230820210316562.png" alt="image-20230820210316562" style="zoom:50%;" />
 
 - 创建`example_2.xml`模型：
 
@@ -74,7 +78,7 @@ python -m mujoco.viewer
 
 打开viewer，把模型拖入......
 
-![image-20230820210406621](https://gitee.com/SeaHIPage/My_Pics/raw/master/from_ubuntu/image-20230820210406621.png)
+<img src="https://gitee.com/SeaHIPage/My_Pics/raw/master/from_ubuntu/image-20230820210406621.png" alt="image-20230820210406621" style="zoom:50%;" />
 
 - 创建`example_3.xml`模型：
 
@@ -124,7 +128,9 @@ python -m mujoco.viewer
 
 打开viewer，把模型拖入......
 
-![image-20230820210435824](https://gitee.com/SeaHIPage/My_Pics/raw/master/from_ubuntu/image-20230820210435824.png)
+<img src="https://gitee.com/SeaHIPage/My_Pics/raw/master/from_ubuntu/image-20230820210435824.png" alt="image-20230820210435824" style="zoom:50%;" />
+
+
 
 
 
