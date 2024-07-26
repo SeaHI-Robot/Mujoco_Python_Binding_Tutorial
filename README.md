@@ -12,7 +12,7 @@
 
 
 
-<img src="docsify_files/_media/brave_kun.png" style="zoom: 33%;" />
+<img src="docs/_media/brave_kun.png" style="zoom: 33%;" />
 
 
 
@@ -22,4 +22,4 @@
 
 
 
-<img src="docsify_files/_media/beg.jpg" style="zoom:15%;" />
+<img src="docs/_media/beg.jpg" style="zoom:15%;" />
