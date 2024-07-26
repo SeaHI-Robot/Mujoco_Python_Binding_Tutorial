@@ -12,7 +12,7 @@
 
 
 
-<img src="docs/_media/brave_kun.png" style="zoom: 33%;" />
+<img src="_media/brave_kun.png" style="zoom: 33%;" />
 
 
 
