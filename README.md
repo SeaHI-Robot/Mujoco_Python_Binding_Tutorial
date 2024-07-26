@@ -16,10 +16,10 @@
 
 
 
-## Beg
-
-" Buy me a cup of coffee ! "
-
-
-
-<img src="docs/_media/beg.jpg" style="zoom:15%;" />
+<!-- ## Beg -->
+<!--  -->
+<!-- " Buy me a cup of coffee ! " -->
+<!--  -->
+<!--  -->
+<!--  -->
+<!-- <img src="docs/_media/beg.jpg" style="zoom:15%;" /> -->
