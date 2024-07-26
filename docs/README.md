@@ -8,7 +8,7 @@
 
 
 
-<img src="_media/brave_kun.png" style="zoom: 30%;" />
+<img src="docs/_media/brave_kun.png" style="zoom: 30%;" />
 
 
 
@@ -18,4 +18,4 @@
 
 
 
-<img src="_media/beg.jpg" style="zoom:15%;" />
+<img src="docs/_media/beg.jpg" style="zoom:15%;" />
