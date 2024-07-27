@@ -58,7 +58,7 @@ with mujoco.viewer.launch_passive(m, d) as viewer:
       time.sleep(time_until_next_step)
 ```
 
-第六行的模型我用的上一章的[example_3.xml](../Models in Mujoco/example_3.xml)，把模型和上面的python脚本文件放在同一个文件夹里（或指定模型的路径）
+第六行的模型我用的上一章的[example_3.xml](../Models_in_Mujoco/example_3.xml)，把模型和上面的python脚本文件放在同一个文件夹里（或指定模型的路径）
 
 
 

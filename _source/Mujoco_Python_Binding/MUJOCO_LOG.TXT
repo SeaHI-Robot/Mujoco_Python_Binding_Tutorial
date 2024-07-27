@@ -1,3 +1,0 @@
-Sun Aug 20 21:36:06 2023
-WARNING: mju_openResource: unknown file './assets/my_models/diff_drive.xml'
-
