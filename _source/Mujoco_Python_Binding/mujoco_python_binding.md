@@ -326,7 +326,7 @@ glfw.terminate()
 
 以上代码相当于自己定义了一个UI，模型是一个差速小车，输入左右轮的运动指令使小车运动；
 
-<img src="../../_media/image-20230820215133317.png" style="zoom:40%;" /> 
+<img src="_media/image-20230820215133317.png" style="zoom:40%;" /> 
 
 
 
@@ -451,6 +451,6 @@ if __name__ == '__main__':
 
 运行脚本，通过上下左右和空格键，可以控制小车的运动；
 
-<img src="../../_media/image-20230820215002745.png" style="zoom:40%;" /> 
+<img src="_media/image-20230820215002745.png" style="zoom:40%;" /> 
 
 

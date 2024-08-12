@@ -22,4 +22,4 @@
 
 
 
-<img src="docs/_media/beg.jpg" style="zoom:15%;" />
+<img src="_media/beg.jpg" style="zoom:15%;" />
