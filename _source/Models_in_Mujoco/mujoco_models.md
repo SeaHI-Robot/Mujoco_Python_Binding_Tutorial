@@ -58,7 +58,7 @@ python -m mujoco.viewer
 
 随后把xml定义的模型文件拖到viewer的窗口中......
 
-<img src="../../_media/image-20230820210316562.png" alt="image-20230820210316562" style="zoom:50%;" />
+![](../../_media/image-20230820210316562.png)
 
 - 创建`example_2.xml`模型：
 
@@ -77,7 +77,7 @@ python -m mujoco.viewer
 
 打开viewer，把模型拖入......
 
-<img src="../../_media/image-20230820210406621.png" alt="image-20230820210406621" style="zoom:50%;" />
+![](../../_media/image-20230820210406621.png)
 
 - 创建`example_3.xml`模型：
 
@@ -127,9 +127,7 @@ python -m mujoco.viewer
 
 打开viewer，把模型拖入......
 
-<img src="../../_media/image-20230820210435824.png" alt="image-20230820210435824" style="zoom:50%;" />
-
-
+![](../../_media/image-20230820210435824.png)
 
 
 
