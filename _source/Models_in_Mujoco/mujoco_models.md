@@ -17,8 +17,7 @@ mujoco中模型本质都是xml文件，支持MJCF和URDF的格式。
 
 C++的mjCModel和xml文件（MJCF）定义的模型基本是直接对应的。在对xml定义的模型进行处理时，编译器将MJCF或URDF处理成mjCModel类型，同时user也可以自己用C++编写mjCModel，保存成MJCF。（官方说因为一些blabla的原因，暂时不支持编写C++的mjCModel再转换成MJCF）
 
-![](../../_media/image-20230707195539793.png)
-
+<img src="../../_media/image-20230707195539793.png" style="zoom:40%;" /> 
 
 
 
@@ -58,7 +57,7 @@ python -m mujoco.viewer
 
 随后把xml定义的模型文件拖到viewer的窗口中......
 
-![](../../_media/image-20230820210316562.png)
+<img src="../../_media/image-20230820210316562.png" style="zoom:40%;" /> 
 
 - 创建`example_2.xml`模型：
 
@@ -77,7 +76,7 @@ python -m mujoco.viewer
 
 打开viewer，把模型拖入......
 
-![](../../_media/image-20230820210406621.png)
+<img src="../../_media/image-20230820210406621.png" style="zoom:40%;" /> 
 
 - 创建`example_3.xml`模型：
 
@@ -127,8 +126,7 @@ python -m mujoco.viewer
 
 打开viewer，把模型拖入......
 
-![](../../_media/image-20230820210435824.png)
-
+<img src="../../_media/image-20230820210435824.png" style="zoom:40%;" /> 
 
 
 ## Dive into mujoco model
